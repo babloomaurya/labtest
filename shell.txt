@@ -1,0 +1,10 @@
+1 Get-command
+how to view windows services
+Get-command *serices*
+Get-command get*serices*
+Get-services
+Get-command *process*
+Get-process
+Get-package
+get-hotfix
+get-help get-event
